@@ -1,2 +1,5 @@
 # Hello-World-Github
-This is a hello world project for learning of Github
+
+Hello I am Steven Wong!
+
+My student munber is 1155174943.
