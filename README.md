@@ -2,6 +2,4 @@
 
 Hello I am Steven Wong!
 
-My student munber is 1155174943.
-
-Add a line here.
+My student number is 1155174943.
